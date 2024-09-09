@@ -70,11 +70,12 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         borderRadius: 10,
         marginTop: 20,
-        marginHorizontal: 'auto',
+        marginHorizontal: 'auto'
     },
     save:{
         fontSize: 16,
-        fontWeight: '500'
+        fontWeight: '500',
+        color:'#fff',
     }
 })
 

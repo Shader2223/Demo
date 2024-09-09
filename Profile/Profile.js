@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
     marginLeft: 15,
   },
   buttonText: {
-    color: 'black',          
+    color: '#fff',          
     fontWeight: 'bold',      
   },
   general: {
@@ -132,7 +132,7 @@ const styles = StyleSheet.create({
   },
   buttonText1: {
     position: 'absolute',   // Đặt văn bản ra ngoài để không bị ảnh hưởng bởi độ mờ
-    color: 'black',         // Đặt màu cho văn bản
+    color: '#fff',         // Đặt màu cho văn bản
     fontWeight: '600',
     fontSize: 16,
   },

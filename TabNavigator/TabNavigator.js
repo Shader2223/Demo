@@ -80,7 +80,7 @@ function TabNavigator() {
             return <Text style={labelStyle}>{route.name}</Text>;
           },
           tabBarStyle: {
-            backgroundColor: 'rgba(139, 145, 152, 0.7)', 
+            backgroundColor: 'rgba(139, 145, 152, 0.8)', 
             borderTopWidth: 0, 
             elevation: 0,  
             shadowOpacity: 10, 
