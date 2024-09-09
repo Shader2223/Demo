@@ -1,6 +1,6 @@
 import { ImageBackground } from 'react-native';
 import React from 'react';
-234567890
+
 
 export default function Background({ children }) {
   return (
